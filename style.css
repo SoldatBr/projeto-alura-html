@@ -1,0 +1,43 @@
+body {
+    color: navajowhite;
+    background: black;
+    margin: 0px;
+    font-family:"Oswald", sans-serif;
+    ;
+}
+
+header {
+    border-bottom: solid 3px darkgoldenrod;
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: 25px;
+
+}
+
+section {
+    background: darkgoldenrod;
+    padding: 3px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:center;
+
+}
+.texto{
+    margin-right: 30px;
+    justify-content: center;
+}
+.nome{
+    font-size: 30px;
+    justify-content: center;
+}
+.sub{
+    font-size: 25px;
+    justify-content: center;
+}
+h1{
+    font-size: 40px;
+}
+.cont{
+    font-size: 20px;
+    justify-content: center;
+}
